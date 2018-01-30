@@ -19,5 +19,5 @@ Application follows good design principles and offers a data persistence for pat
 * DoublyLinkedList for storing patients’ data
 
 ## Built using
-* Swing GUI Widget Toolkit
-* SQlite database
+* ![Swing](https://en.wikipedia.org/wiki/Swing_(Java)) GUI Widget Toolkit
+* ![SQlite](http://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/) database
