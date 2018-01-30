@@ -19,9 +19,9 @@ Application follows good design principles and offers a data persistence for pat
 * DoublyLinkedList for storing patients’ data
 
 ## Built using
-* ![Swing](https://en.wikipedia.org/wiki/Swing_(Java)) GUI Widget Toolkit
-* ![SQlite](http://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/) database
-* ![Doubly Linked List](https://en.wikipedia.org/wiki/Doubly_linked_list) for patients queue
+* [Swing](https://en.wikipedia.org/wiki/Swing_(Java)) GUI Widget Toolkit
+* [SQlite](http://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/) database
+* [Doubly Linked List](https://en.wikipedia.org/wiki/Doubly_linked_list) for patients queue
 
 ## Screenshots
 ![Main page](Images/main.jpg "Main page")
@@ -40,3 +40,11 @@ After priority has been set, patient is deleted from the queue DLL(DoublyLinkedL
 
 3) Doctor adds treatment notes to patient and on pressing SAVE button, patient becomes discharged and removed from priority queue. They can be still seen in the All patients queue, which shows discharged patients.
 The doctor GUI looks similar to Nurses one, except it doesn’t have **Select Queue Priority** checkbox.
+
+## Pre-requisites
+* [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Eclipse IDE](http://www.eclipse.org/downloads/eclipse-packages/) / [NetBeans IDE](https://netbeans.org/features/index.html) or any other IDE for Java Development
+
+## Installation
+1. Download the project folder
+2. Run **GUI.java** in your Java IDE
